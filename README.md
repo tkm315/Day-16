@@ -9,3 +9,6 @@ introducing with some methods and packages like "net/http"  "os" "log" "fmt"
 
 fmt.Fprintf
 http.ResponseWriter , *http.Request , http.HandleFunc , http.ListenAndServe , lig.Fatal
+
+how to edit pages? #1
+---------------------
