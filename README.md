@@ -12,3 +12,9 @@ http.ResponseWriter , *http.Request , http.HandleFunc , http.ListenAndServe , li
 
 how to edit pages? #1
 ---------------------
+
+https://github.com/tkm315/Day-16/blob/main/wikiEditExplained.png
+
+https://github.com/tkm315/Day-16/blob/main/puzzle.png
+
+https://github.com/tkm315/Day-16/blob/main/netExample.go
